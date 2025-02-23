@@ -1,5 +1,5 @@
-# ![Icon of CS.RIN.RU](https://i.ibb.co/zXtW7WD/csrinfavicon32.png) CS RIN RU Enhanced mod
-![License](https://img.shields.io/badge/License-UNLICENSE-red) ![Release](https://img.shields.io/github/v/release/SubZeroPL/cs-rin-ru-enhanced-mod) ![OS](https://img.shields.io/badge/OS-Windows%2FmacOS%2FLinux-green)
+# ![Icon of CS.RIN.RU](https://i.ibb.co/zXtW7WD/csrinfavicon32.png) CS RIN RU RehAInced mod
+![License](https://img.shields.io/badge/License-UNLICENSE-red) ![Release](https://img.shields.io/github/v/release/RobThePCGuy/cs-rin-ru-rehainced-mod) ![OS](https://img.shields.io/badge/OS-Windows%2FmacOS%2FLinux-green)
 
 Enhance your experience at CS.RIN.RU
 
@@ -35,14 +35,14 @@ Official forum topic: https://cs.rin.ru/forum/viewtopic.php?f=14&t=75717
 - Adds a special search bar configurable in settings (special_search)
 
 ## 🧑‍🤝‍🧑 Other related projects
-- [CS.RIN.RU-Enhanced-external](https://github.com/Altansar69/CS.RIN.RU-Enhanced-external) - Other script containing everything related to cs.rin.ru but acting on other sites (Steam, SteamDB etc...)
+- [CS.RIN.RU-RehAInced-external](https://github.com/Altansar69/CS.RIN.RU-RehAInced-external) - Other script containing everything related to cs.rin.ru but acting on other sites (Steam, SteamDB etc...)
 
 ## 📅 TODO (planned features):
-see: [issues](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod/issues)
+see: [issues](https://github.com/RobThePCGuy/cs-rin-ru-rehainced-mod/issues)
 
 ## 🔨 Installation:
 1) Download a script extension like [Violentmonkey](https://violentmonkey.github.io/) or [Tampermonkey](https://www.tampermonkey.net/).
-2) Simply click on [this link](https://raw.githubusercontent.com/SubZeroPL/cs-rin-ru-enhanced-mod/master/cs-rin-ru-enhanced-mod.user.js) and a pop-up window should appear asking you if you wish to install the extension.
+2) Simply click on [this link](https://raw.githubusercontent.com/RobThePCGuy/cs-rin-ru-rehainced-mod/master/cs-rin-ru-rehainced-mod.user.js) and a pop-up window should appear asking you if you wish to install the extension.
 
 **Notes:** The script supports automatic updates, which means you don't have to download it again each time it's updated.
 
@@ -54,7 +54,7 @@ This project is following [semantic versioning schema](https://semver.org/).
 
 ## 🤝 Credits
 - [RoyalGamer06](https://cs.rin.ru/forum/memberlist.php?mode=viewprofile&u=477885) - Has created the original project (now retired)
-- [SubZeroPL](https://github.com/SubZeroPL) - Has taken over the project
+- [RobThePCGuy](https://github.com/RobThePCGuy) - Has taken over the project
 - [Reddiepoint](https://github.com/Reddiepoint) - Recurring developer
 - [Altansar69](https://github.com/Altansar69) - Recurring developer
 

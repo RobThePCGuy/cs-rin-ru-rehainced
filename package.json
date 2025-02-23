@@ -1,21 +1,21 @@
 {
-    "name": "cs-rin-ru-enhanced-mod",
+    "name": "cs-rin-ru-rehainced-mod",
     "version": "0.4.6",
     "description": "Enhance your experience at CS.RIN.RU",
-    "main": "cs-rin-ru-enhanced-mod.user.js",
+    "main": "cs-rin-ru-rehainced-mod.user.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod.git"
+        "url": "git+https://github.com/RobThePCGuy/cs-rin-ru-rehainced-mod.git"
     },
-    "author": "SubZeroPL",
+    "author": "RobThePCGuy",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod/issues"
+        "url": "https://github.com/RobThePCGuy/cs-rin-ru-rehainced-mod/issues"
     },
-    "homepage": "https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod#readme",
+    "homepage": "https://github.com/RobThePCGuy/cs-rin-ru-rehainced-mod#readme",
     "devDependencies": {
         "eslint": "^7.30.0",
         "jquery": "^3.6.0"
